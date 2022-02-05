@@ -1,1 +1,30 @@
 
+here are some basics and commands for git
+
+### There are a few basic terms that you will need to know before you can get started. The ***SSH protocol*** is a method for secure remote login from one computer to another. 
+
+***A repository*** contains your project folders that are set up for version control. 
+
+***A fork*** is a copy of a repository. 
+
+***A pull*** request is the way you request that someone reviews and approves your changes before they become final. 
+
+***A working directory*** contains the files and subdirectories on your computer that are associated with a Git repository. 
+
+###There are a few basic Git commands that you will always use. When starting out with a new repository, you only need create it once: either locally, and then push to GitHub, or by cloning an existing repository by using the command ***"git init".***
+
+***"git add"*** moves changes from the working directory to the staging area. 
+
+***"git status"*** allows you to see the state of your working directory and the staged snapshot of your changes. 
+
+***"git commit"*** takes your staged snapshot of changes and commits them to the project. 
+
+***"git reset"*** undoes changes that you’ve made to the files in your working directory. 
+
+***"git log"*** enables you to browse previous changes to a project. 
+
+***"git branch"*** lets you create an isolated environment within your repository to make changes. 
+
+***"git checkout"*** lets you see and change existing branches. 
+
+***"git merge"*** lets you put everything back together again. 
